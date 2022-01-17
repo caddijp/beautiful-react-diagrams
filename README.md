@@ -18,7 +18,7 @@
 
 <div>
   <p align="center">
-    <a href="https://beautifulinteractions.github.io/beautiful-react-diagrams/" target="_blank">
+    <a href="https://antonioru.github.io/beautiful-react-diagrams/" target="_blank">
     🌟 Live playground here 🌟
     </a>
   </p>
@@ -51,7 +51,7 @@ diagrams with ease.
 
 <div>
   <p align="center">
-    <a href="https://beautifulinteractions.github.io/beautiful-react-diagrams/" target="_blank">
+    <a href="https://antonioru.github.io/beautiful-react-diagrams/" target="_blank">
     🌟 Live playground here 🌟
     </a>
   </p>
@@ -77,20 +77,6 @@ Pre-release commits on the `master` branch, including merge commits, lead
 to automated publication to NPM under the `next` tag. Pre-release version
 numbers must follow the `<major>.<minor>.<patch>-<tag>.<number>`, such as 
 `5.1.0-rc.0`. 
-
-### Credits
-
-This library is provided and sponsored by:
-
-<div>
-  <p>
-    <a href="https://beautifulinteractions.com/">
-      <img src="https://beautifulinteractions.com/img/logo-colorful.svg" alt="Beautiful interactions" width="140px" />
-    </a>
-  </p>
-</div>
-
-As part of our commitment to support and contribute to the open source community.
 
 ---
 
